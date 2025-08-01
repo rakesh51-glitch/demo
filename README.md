@@ -1,3 +1,3 @@
 # demo
-this is my 1st git Repository
+this is my 1st git Repository.
 Author-Rakesh 
